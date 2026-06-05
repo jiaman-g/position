@@ -1,0 +1,26 @@
+.main {
+  display: flex; 
+  justify-content: space-between;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: white;
+}
+.sub-main {
+  display: flex;
+}
+.mr-5 {
+  margin-right: 5px;
+}
+.next {
+  margin-top: 10px;
+}
+.next-a {
+  text-decoration: none;
+  color: black;
+}
+.next-a:hover {
+  text-decoration: underline;
+}
